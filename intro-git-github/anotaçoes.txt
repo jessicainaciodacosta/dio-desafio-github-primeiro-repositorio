@@ -1,0 +1,2 @@
+link p download do git: https://github.com/jessicainaciodacosta/dio-desafio-github-primeiro-repositorio.git
+o gitbash é um terminal estendido para otimizar o uso do git
